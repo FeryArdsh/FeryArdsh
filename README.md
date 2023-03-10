@@ -2,9 +2,9 @@
 
 **`Front-End Web Developer`**
 
-Saya lulusan baru dari Universitas Nasional dengan jurusan Sistem Informasi. Saya memiliki minat khusus di bidang front-end development. Selama kuliah, saya mengasah keterampilan saya dalam membangun antarmuka pengguna yang menarik dan responsif menggunakan HTML, CSS, dan JavaScript beserta kerangka kerjanya.
+I am a recent graduate from Universitas Nasional with a major in Information Systems. I have a particular interest in front-end development. During my studies, I honed my skills in building attractive and responsive user interfaces using HTML, CSS, and JavaScript along with their frameworks.
 
-Saya memulai karir saya sebagai front-end developer saat saya bergabung dengan tim pengembangan aplikasi selama magang di salah satu perusahaan Indonesia. Saat ini, saya mencari kesempatan untuk bergabung dengan tim yang inovatif dan menantang di bidang front-end development. Saya siap untuk berkontribusi dan belajar bersama tim untuk menghasilkan produk-produk yang inovatif dan berkualitas.
+I began my career as a front-end developer when I joined an application development team during my internship at one of the Indonesian companies. Currently, I am seeking opportunities to join an innovative and challenging team in the field of front-end development. I am ready to contribute and learn alongside the team to produce innovative and quality products.
 
 ### 🧰 Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
