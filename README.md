@@ -2,7 +2,7 @@
 
 **`Front-End Web Developer`**
 
-I am a recent graduate from Universitas Nasional with a major in Information Systems. I have a particular interest in front-end development. During my studies, I honed my skills in building attractive and responsive user interfaces using HTML, CSS, and JavaScript along with their frameworks.
+A Front End Developer with expertise in crafting cool and responsive web interfaces using modern frameworks like React.js. I excel in writing clean, elegant, and efficient code.
 
 I began my career as a front-end developer when I joined an application development team during my internship at one of the Indonesian companies. Currently, I am seeking opportunities to join an innovative and challenging team in the field of front-end development. I am ready to contribute and learn alongside the team to produce innovative and quality products.
 
@@ -11,7 +11,7 @@ I began my career as a front-end developer when I joined an application developm
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
