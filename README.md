@@ -1,4 +1,4 @@
-# 👋 Hallo, I'm Fery Ardian Syah
+# 👋 Hello, I'm Fery Ardian Syah
 
 **`Front-End Web Developer`**
 
